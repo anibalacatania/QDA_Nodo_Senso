@@ -1,1 +1,11 @@
-# QDA_Nodo_Sensol
+# QDA_Nodo_Senso
+
+
+
+install.packages(
+          c("SensoMineR",
+            "readr","missMDA","lmerTest","predictmeans"
+        
+            )
+  
+)
